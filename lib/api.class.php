@@ -8,8 +8,7 @@ class SBA_API {
 	
 	//Used by business licenses and permits
 	private $_business_categories 	= array('doing business as', 'entity filing', 'employer requirements', 'state licenses', 'tax registration');
-	private $_employer_requirements 	= array('insurance requirements', 'new hire reporting requirements', 'state tax registration', 'workplace poster requirements');
-	private $_business_type 			= array('general business licenses', 'auto dealership', 'barber shop', 'beauty salon', 'child care services', 'construction contractor', 'debt collection agency', 'electrician', 'massage', 'therapist', 'plumber', 'restaurant');
+	private $_business_type 			= array('general business licenses', 'auto dealership', 'barber shop', 'beauty salon', 'child care services', 'construction contractor', 'debt collection agency', 'electrician', 'massage', 'therapist', 'plumber', 'restaurant', 'insurance requirements', 'new hire reporting requirements', 'state tax registration', 'workplace poster requirements');
 
 	//Used by loans and grants search api
 	private $_loans_industry 	= array('agriculture', 'child care', 'environmental management', 'health care', 'manufacturing', 'technology', 'tourism'); 
