@@ -192,7 +192,7 @@ class SBA_API {
 	 * Format:  		http://api.sba.gov/geodata/city_county_data_for_state_of/STATE ABBREVIATION.FORMAT
 							http://api.sba.gov/geodata/city_data_for_state_of/STATE ABBREVIATION.FORMAT
 							http://api.sba.gov/geodata/county_data_for_state_of/STATE ABBREVIATION.FORMAT
-							http://api.sba.gov/geodata/all_data_for_city_of/centerville/CITY NAME/STATE ABBREVIATION.FORMAT
+							http://api.sba.gov/geodata/all_data_for_city_of/CITY NAME/STATE ABBREVIATION.FORMAT
 							http://api.sba.gov/geodata/all_data_for_county_of/COUNTY NAME/STATE ABBREVIATION.xml
 	 * Example: 		http://api.sba.gov/geodata/city_county_data_for_state_of/ca.xml
 	 * URL:				http://www.sba.gov/content/us-city-and-county-web-data-api-city-county-data-all-data-methods
